@@ -1,0 +1,12 @@
+{
+	"elements":
+	[
+		{ "name": "GatewayIP", "type": "ValidationTextBox", "caption": "IP Adresse Raspberry" },
+		{ "name": "Login", "type": "ValidationTextBox", "caption": "Login" }
+		{ "name": "Password", "type": "ValidationTextBox", "caption": "Passwort" }
+	],
+	"actions":
+	[
+		{ "type": "Button", "label": "Test Connection", "onClick": "FR_TestConnection();" }
+	]	
+}

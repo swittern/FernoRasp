@@ -1,0 +1,14 @@
+{
+	"id": "{7937E42B-1E93-454B-B2B4-5F754073B217}",
+	"name": "FernoRasp",
+	"type": 1,
+	"vendor": "",
+	"aliases": 
+	[
+		"Fernotron Raspi Gateway"
+	],	
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "FR"
+}

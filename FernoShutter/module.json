@@ -1,0 +1,14 @@
+{
+	"id": "{ADC605B2-CA6D-43E9-8D90-6B7A734DED9B}",
+	"name": "FernoShutter",
+	"type": 3,
+	"vendor": "",
+	"aliases": 
+	[
+		"Fernotron Remote Control"
+	],	
+	"parentRequirements": [{7937E42B-1E93-454B-B2B4-5F754073B217}],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "FS"
+}
